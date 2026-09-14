@@ -42,5 +42,13 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://www.linkedin.com/in/alexandro-theo-846250263/">Alexandro Theo</a> 
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"></p>
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandro-theo-846250263/">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/KejuCheddar">
+    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
