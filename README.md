@@ -40,8 +40,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="400">
-</p>
-
-<p align="center">⭐️ From <a href="https://www.linkedin.com/in/alexandro-theo-846250263/">Alexandro Theo</a></p>
+<p align="center">⭐️ From <a href="https://www.linkedin.com/in/alexandro-theo-846250263/">Alexandro Theo</a> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"></p>
