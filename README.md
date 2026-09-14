@@ -14,7 +14,6 @@
 - 🔭 I'm currently studying at Binus University
 - 💬 I enjoy working with ReactJS/React Native, Python, and exploring Data Science / AI
 - 🌱 Currently learning [Deep Learning, AI]
-- ⚡ Focused on writing clean and efficient code
 - 📫 Reach me at: https://www.linkedin.com/in/alexandro-theo-846250263/ or alexandrothe68@gmail.com
 
 ---
